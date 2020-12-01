@@ -1,17 +1,18 @@
 {
-  "name": "inm-wb",
+  "name": "INM-WB",
   "version": "1.0.0",
-  "description": "Proyecto de inmuebles con webpack y babel.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Magiskandev/Testingwb.git"
+    "url": "git+https://github.com/Magiskandev/Testingwb.git"
   },
-  "author": "Alejandro",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Magiskandev/Testingwb/issues"
   },
